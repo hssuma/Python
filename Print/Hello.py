@@ -1,0 +1,6 @@
+print("Hello ")
+print("Learning python is joyful")
+print("I love python")
+print("I like coding")
+print("Python is the most easiest language to learn programming")
+print("Python have many built in libraries")

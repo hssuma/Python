@@ -1,0 +1,8 @@
+print(10)
+print(150)
+print(1000)
+print(100000)
+print(10.0)
+print(150.00)
+print(1000.00)
+print(1000000.00)
